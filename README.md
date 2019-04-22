@@ -1,10 +1,7 @@
 # Migrate from TODOist into DayOne
 
-Before:
-![screenshot of TODOist app with entries to be imported](img/todoistBefore.png)
-
 After:
-![screenshot of DayOne app with entries after import from TODOist app](img/dayOneAfter.png)
+![screenshot of TODOist app and DayOne app before and after migration](img/dayOneAfter.png)
 
 ## Steps
 Took me 58 minutes the first time.
