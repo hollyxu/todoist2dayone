@@ -1,6 +1,5 @@
 # Migrate from TODOist into DayOne
 
-After:
 ![screenshot of TODOist app and DayOne app before and after migration](img/dayOneAfter.png)
 
 ## Steps
